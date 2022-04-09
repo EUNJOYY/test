@@ -1,0 +1,55 @@
+gui 
+= 아이콘으로 눌러서 들어가기
+
+cli
+= 컴퓨터 언어로 컴퓨터 사용하는 것
+
+vsc 설치
+ESlint
+prettier
+indent-rainbow
+Live Share  >> live server
+
+live share >> sign in으로해서 github로! 초록색 버튼 클릭
+
+live share 링크 공유
+
+같이 수정 liver share 아래 버튼 또는 share 버튼 화살표 초록색 버튼 하면 링크 자동 복사
+
+읽기 권한만 아래 오른쪽에 팝업창 클릭 후 make read only 누르면 다시 클릭 링크 복사
+
+
+readme > 사용설명서도 함께 적어짐
+gitignore > 비밀번호
+
+
+터미널에 입력 ctrl + ~
+git clone 주소
+
+레지스터로 들어가줘야 한다.
+cd tab누르거나(폴더가 두개 이면 앞에 글자만 대충 쳐주고 tab) 폴더 이름 넣기
+
+
+
+git init  -  이제부터 해당 디렉토리의 변화 과정을 git에서 추적하겠다
+
+git add.  -  최종으로 기록시작
+
+git commit -m "내용"
+
+git push origin master
+
+git init
+: 이제부터 해당 디렉토리의 변화 과정을 git에서 추적하겠다
+
+git add .
+: 히스토리를 깃에 붙임
+
+git commit -m “내용”
+: add 된 히스토리의 제목 = 내용
+
+git push origin main
+: main 으로 푸시
+대충 제가 정리한건데
+참고되시면 붙여넣기하세영 ㅋㅋ
+
